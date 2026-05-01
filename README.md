@@ -61,3 +61,4 @@ The physical hardware incorporates 3 double-acting cylinders, a single-stage vac
 | ![Control Panel](https://github.com/user-attachments/assets/b50b25cb-c80b-4245-87e2-4f3fbdf8f7fa) | ![Hardware Built](https://github.com/user-attachments/assets/40dab023-9d10-4609-8f74-416695b72cb9) |
 
 *The control panel processes 24V DC logic via multiple relays to sequence the pneumatic solenoid valves, with emergency STOP capabilities that halt all operations and safely return the system to its initial state.*
+## Author : Marwan Elsayed Ali
